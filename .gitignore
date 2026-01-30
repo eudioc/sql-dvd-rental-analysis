@@ -1,0 +1,17 @@
+Файлы IDE
+.vscode/
+.idea/
+*.swp
+
+Файлы ОС
+.DS_Store
+Thumbs.db
+
+Временные файлы
+*.tmp
+*.log
+
+Пароли и конфиденциальные данные
+*.env
+config.py
+secrets.json
