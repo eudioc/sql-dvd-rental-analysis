@@ -8,7 +8,7 @@
 - PostgreSQL
 - SQL
 - pgAdmin
--Git & GitHub 
+- Git & GitHub 
 
  Структура базы данных
 "actor"	                                             4
